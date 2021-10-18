@@ -1,0 +1,16 @@
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.exe
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.deps.json
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.json
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.runtimeconfig.dev.json
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.dll
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\ref\console-programming.dll
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\bin\Debug\net5.0\console-programming.pdb
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.csprojAssemblyReference.cache
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.AssemblyInfo.cs
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.dll
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\ref\console-programming.dll
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.pdb
+C:\Users\busra\Desktop\.NetCorePatikası\CSharp\console-programming\obj\Debug\net5.0\console-programming.genruntimeconfig.cache
