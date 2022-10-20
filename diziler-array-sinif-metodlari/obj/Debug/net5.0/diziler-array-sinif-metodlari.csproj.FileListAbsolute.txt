@@ -1,0 +1,16 @@
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.AssemblyInfo.cs
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.exe
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.deps.json
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.runtimeconfig.json
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.runtimeconfig.dev.json
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.dll
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\ref\diziler-array-sinif-metodlari.dll
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\bin\Debug\net5.0\diziler-array-sinif-metodlari.pdb
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.dll
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\ref\diziler-array-sinif-metodlari.dll
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.pdb
+C:\Users\busra\Desktop\CSharp-101\diziler-array-sinif-metodlari\obj\Debug\net5.0\diziler-array-sinif-metodlari.genruntimeconfig.cache
