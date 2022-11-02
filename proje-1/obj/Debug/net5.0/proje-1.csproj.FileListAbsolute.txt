@@ -1,0 +1,16 @@
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.AssemblyInfo.cs
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.exe
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.deps.json
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.runtimeconfig.json
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.runtimeconfig.dev.json
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.dll
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\ref\proje-1.dll
+C:\Users\busra\Desktop\CSharp-101\proje-1\bin\Debug\net5.0\proje-1.pdb
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.dll
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\ref\proje-1.dll
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.pdb
+C:\Users\busra\Desktop\CSharp-101\proje-1\obj\Debug\net5.0\proje-1.genruntimeconfig.cache
