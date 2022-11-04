@@ -1,0 +1,16 @@
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.exe
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.deps.json
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.runtimeconfig.json
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.runtimeconfig.dev.json
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.dll
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\ref\charp-enum.dll
+C:\Users\busra\Desktop\CSharp-101\charp-enum\bin\Debug\net5.0\charp-enum.pdb
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.csproj.AssemblyReference.cache
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.AssemblyInfo.cs
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.csproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.dll
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\ref\charp-enum.dll
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.pdb
+C:\Users\busra\Desktop\CSharp-101\charp-enum\obj\Debug\net5.0\charp-enum.genruntimeconfig.cache
